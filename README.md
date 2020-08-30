@@ -1,0 +1,1 @@
+This is Gregory's first Git project.
